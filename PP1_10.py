@@ -1,3 +1,9 @@
+'''
+    Lesson: 1.7
+    Author: Wesley Giese
+    Date Created: Oct 2, 2024
+    Date Last Modified: Oct 2, 2024
+'''
 
 import math 
 
